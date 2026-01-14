@@ -1,4 +1,4 @@
-# industrial-javascript-001
+# industrial-javascript-101
 
 * https://github.com/gnh1201/welsonjs
 * https://github.com/gnh1201/catswords-jsrt-rs
