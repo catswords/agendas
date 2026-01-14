@@ -90,3 +90,24 @@ Erlang 및 Elixir는 최근에도 활발한 유지보수가 되고 있는 언어
 
   * https://getlumen.org/
   * https://github.com/lumen/lumen
+
+### Java
+
+#### JVM(또는 Java Bytecode)을 이용하는 WASM 지원
+* https://github.com/cretz/asmble
+* https://teavm.org/
+
+#### Java 바이트코드를 WASM으로 지원
+* https://github.com/i-net-software/JWebAssembly
+* https://github.com/mirkosertic/Bytecoder
+
+#### WASM 기반 가상머신 방식
+* https://medium.com/leaningtech/cheerpj-2-1-released-java-bytecode-to-webassembly-and-javascript-303fb8dd5d98
+
+#### wasmer를 이용한 방법 (추천)
+* https://github.com/wasmerio/wasmer-java
+
+#### 한국 환경에 맞춘 좋은 접근법?
+* 인기 프레임워크(Spring/eGovFrame 등)와 결합하여 시너지를 낼 수 있는 방법?
+* 그 외 생각나는데로 추가
+* 
